@@ -30,6 +30,10 @@
 ### My bagpack
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
+<img align="left" alt="Pandas library" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" />
+<img align="left" alt="Numpy library" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" />
+<img align="left" alt="Sklearn library" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" />
+<img align="left" alt="Pyspark" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffeaturepreneur%2Fpandas-vs-pyspark-dataframe-1722cb987fbd&psig=AOvVaw3ieGCoI118453OA8-i7Gtl&ust=1639415568348000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjJuIrh3vQCFQAAAAAdAAAAABAO" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
