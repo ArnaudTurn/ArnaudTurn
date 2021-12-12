@@ -25,6 +25,8 @@
 
 🤖 Competitions (internal / external) 
 
+🆕 New tech and ideas
+
 ####
 <br />
 
