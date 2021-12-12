@@ -1,5 +1,7 @@
 ## Hi there welcome on [ArnaudTurn](https://github.com/ArnaudTurn/) gitpage !
 
+<br />
+
 👋 I'm Arnaud, welcome to my Github page. You will find few projects mainly related to data science topics.
 
 💎 I'm found of scaling machine learning projects and building frameworks reusable through multiple topics implying structured and unstructured data. On top of that I am really interested in the use of ML projects up to a user experience using complementary knowledge (devops, database administration, front-end developement, [librairies](https://python-telegram-bot.readthedocs.io/en/stable/), Design thinking, ...).
