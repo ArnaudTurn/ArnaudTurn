@@ -8,7 +8,6 @@
 
 🔐 I do not share all of my personal projects but will always be happy discussing breakthrough and bondaries of data science related topics.
 
-<br />
 
 ### Who ? What ? 
 
@@ -16,18 +15,18 @@
 
 🤩 I also worked quite a lot on the assessment of the data science platform tools and am really interested in the market of data vizualization, data science, data ops as well as the products.
 
-<br />
+
 
 ### My play ground
 ✈️ Solving problems with optimized ML techniques 
 
-<br />
+
 
 ### Connect with me:
 
 [<img align="left" alt="ArnaudTurn | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-<br />
+
 <br />
 
 --------
