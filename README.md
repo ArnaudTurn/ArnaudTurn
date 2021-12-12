@@ -16,12 +16,12 @@
 
 🤩 I also worked quite a lot on the assessment of the data science platform tools and am really interested in the market of data vizualization, data science, data ops as well as the products.
 
-
+--------
 ### My play ground 🐱‍🏍
 - Solving problems with optimized ML techniques 
 - 
 
-
+--------
 ### My bagpack
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
