@@ -27,7 +27,6 @@
 
 🆕 New tech and ideas
 
-####
 <br />
 
 ### Connect with me:
