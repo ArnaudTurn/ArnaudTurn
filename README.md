@@ -23,6 +23,8 @@
 
 🥅 Unstructured and structured data (financial data, scrapped based, ...)
 
+🤖 Competitions (internal / external) 
+
 ####
 <br />
 
