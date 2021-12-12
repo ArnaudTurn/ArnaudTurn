@@ -20,6 +20,7 @@
 
 ### My play ground
 ✈️ Solving problems with optimized ML techniques 
+🥅 Unstructured and structured data (financial data, scrapped based, ...)
 
 ####
 <br />
