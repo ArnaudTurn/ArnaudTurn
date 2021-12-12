@@ -1,4 +1,4 @@
-### Hi there welcome on [ArnaudTurn][website] gitpage !
+### Hi there welcome on ArnaudTurn gitpage !
 
 
 👋 I'm Arnaud, welcome to my Github page. You will find few projects mainly related to data science topics.
