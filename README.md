@@ -73,6 +73,7 @@
 <img align="left" alt="Sklearn library" width="35px" src="https://camo.githubusercontent.com/476da1f6b132a5c4d8f9126f65679ec994ef7521db13e13ef3aefa846c7bbc75/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f3132303070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" />
 <img align="left" alt="SHAP library" width="26px" src="https://camo.githubusercontent.com/8ac311c27c3556e9366f04c252b4056b8b453d12489324ba0e9b05e27d616a4a/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f36434a68335a4936496d336c664a7355327a4a6c714a7765614d447148496a4247306356614d465f4b684952583430424a663334774f4149633455526542776d4b4a5758556f66596739624655413d77313932302d68393635" />
 
+
 <br />
 
 #### Cheat sheets
@@ -80,7 +81,7 @@
 * [Keras](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1625839502/Keras_Cheat_Sheet-_Neural_Networks_in_Python_tjhi1q.png)
 * [Pyspark](https://www.edureka.co/blog/wp-content/uploads/2018/10/PySpark_CheatSheet-1.png)
 * [RAPIDS](https://rapids.ai/assets/files/cheatsheet.pdf)
-
+* [GCP](https://miro.medium.com/max/10800/1*sph0ts7XHl2XHIkD0GWlSA.png)
 <br />
 
 
