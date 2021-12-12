@@ -1,4 +1,4 @@
-## Hi there and welcome on [my](https://github.com/ArnaudTurn/) page !
+## Hi there and welcome !
 
 <br />
 
