@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ![ClipWindowsGIF](https://user-images.githubusercontent.com/35238149/145718544-38b2587e-b12d-4d9b-868d-a2a3105fa26d.gif)
+
+
+
+
 
 <!--
 **ArnaudTurn/ArnaudTurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
