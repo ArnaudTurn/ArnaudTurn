@@ -1,4 +1,4 @@
-## Hi there welcome on [ArnaudTurn](https://github.com/ArnaudTurn/) gitpage !
+## Hi there and welcome on [ArnaudTurn](https://github.com/ArnaudTurn/) page !
 
 <br />
 
