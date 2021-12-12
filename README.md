@@ -82,6 +82,10 @@
 * [Pyspark](https://www.edureka.co/blog/wp-content/uploads/2018/10/PySpark_CheatSheet-1.png)
 * [RAPIDS](https://rapids.ai/assets/files/cheatsheet.pdf)
 * [GCP](https://miro.medium.com/max/10800/1*sph0ts7XHl2XHIkD0GWlSA.png)
+* [Git](https://raw.githubusercontent.com/hbons/git-cheat-sheet/master/preview.png)
+* [Docker](https://extremeautomation.io/img/cheatsheets/cheat_sheet_docker_page_1.png)
+
+
 <br />
 
 
