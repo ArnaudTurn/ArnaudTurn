@@ -19,9 +19,9 @@
 <br />
 
 ### My play ground
-✈️ Solving problems with optimized ML techniques 
+✈️ Algorithmic trading 
 
-🥅 Unstructured and structured data (financial data, scrapped based, ...)
+🥅 Solving problems with optimized ML techniques on Unstructured/structured data (financial data, scrapped based, ...)
 
 🤖 Competitions (internal / external) 
 
@@ -57,6 +57,7 @@
 
 #### Data science platforms
 
+<img align="left" alt="aws logo" width="50px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />
 <img align="left" alt="Google Cloud Platform logo" width="50px" src="https://camo.githubusercontent.com/b6d84bb91a75593cec44376f417bacdbd03a49ab66245072a21b2f57aa1318fc/68747470733a2f2f69742e776973632e6564752f77702d636f6e74656e742f75706c6f6164732f476f6f676c652d436c6f75642d506c6174666f726d2d393030783430302d312e6a7067" />
 <img align="left" alt="Dataiku logo" width="40px" src="https://upload.wikimedia.org/wikipedia/en/9/91/Dataiku_logo.png" />
 <img align="left" alt="Anaconda logo" width="40px" src="https://mrmint.fr/wp-content/uploads/2017/09/anaconda_logo.png" />
