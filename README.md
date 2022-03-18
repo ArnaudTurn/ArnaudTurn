@@ -78,7 +78,7 @@
 
 <img align="left" alt="SHAP library" width="45px" src="https://shap.readthedocs.io/en/latest/_static/shap_logo_white.png" />
 
-
+<br />
 <br />
 
 #### Cheat sheets
