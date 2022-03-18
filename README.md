@@ -57,10 +57,10 @@
 
 #### Data science platforms
 
-<img align="left" alt="aws logo" width="50px" src="https://camo.githubusercontent.com/ad5550ea0932adebb1d227536a3142f946de0c0feb956498cf766c8e2d76b9f1/68747470733a2f2f61302e6177737374617469632e636f6d2f6c696272612d6373732f696d616765732f6c6f676f732f6177735f6c6f676f5f736d696c655f31323030783633302e706e67" />
-<img align="left" alt="Google Cloud Platform logo" width="50px" src="https://camo.githubusercontent.com/b6d84bb91a75593cec44376f417bacdbd03a49ab66245072a21b2f57aa1318fc/68747470733a2f2f69742e776973632e6564752f77702d636f6e74656e742f75706c6f6164732f476f6f676c652d436c6f75642d506c6174666f726d2d393030783430302d312e6a7067" />
-<img align="left" alt="Dataiku logo" width="40px" src="https://upload.wikimedia.org/wikipedia/en/9/91/Dataiku_logo.png" />
-<img align="left" alt="Anaconda logo" width="40px" src="https://mrmint.fr/wp-content/uploads/2017/09/anaconda_logo.png" />
+<img align="left" alt="aws logo" width="60px" src="https://camo.githubusercontent.com/ad5550ea0932adebb1d227536a3142f946de0c0feb956498cf766c8e2d76b9f1/68747470733a2f2f61302e6177737374617469632e636f6d2f6c696272612d6373732f696d616765732f6c6f676f732f6177735f6c6f676f5f736d696c655f31323030783633302e706e67" />
+<img align="left" alt="Google Cloud Platform logo" width="60px" src="https://camo.githubusercontent.com/b6d84bb91a75593cec44376f417bacdbd03a49ab66245072a21b2f57aa1318fc/68747470733a2f2f69742e776973632e6564752f77702d636f6e74656e742f75706c6f6164732f476f6f676c652d436c6f75642d506c6174666f726d2d393030783430302d312e6a7067" />
+<img align="left" alt="Dataiku logo" width="60px" src="https://upload.wikimedia.org/wikipedia/en/9/91/Dataiku_logo.png" />
+<img align="left" alt="Anaconda logo" width="60px" src="https://mrmint.fr/wp-content/uploads/2017/09/anaconda_logo.png" />
 
 <br />
 
@@ -78,7 +78,6 @@
 
 <img align="left" alt="SHAP library" width="45px" src="https://shap.readthedocs.io/en/latest/_static/shap_logo_white.png" />
 
-<br />
 <br />
 
 #### Cheat sheets
