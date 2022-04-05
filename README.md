@@ -6,7 +6,7 @@
 
 💎 I'm found of scaling machine learning projects and building frameworks reusable through multiple topics implying structured and unstructured data. On top of that I am really interested in the use of ML projects up to a user experience using complementary knowledge (devops, database administration, front-end developement, [librairies](https://python-telegram-bot.readthedocs.io/en/stable/), Design thinking, ...).
 
-🔐 I do not share all of my personal projects but will always be happy discussing breakthrough and boundaries of data science related topics.
+🔐 I do not share my personal projects but will be happy discussing breakthrough and boundaries of data science and algorithmic trading related topics.
 
 <br />
 
