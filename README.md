@@ -19,7 +19,7 @@
 <br />
 
 ### My play ground
-✈️ Algorithmic trading (minute frame and hourly frame)
+✈️ Algorithms & Automation
 
 🥅 Solving problems with optimized ML techniques on Unstructured/structured data (financial data, scrapped based, ...)
 
