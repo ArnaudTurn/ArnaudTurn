@@ -12,7 +12,7 @@
 
 ### Who ? What ? 
 
-🔍 I've been a data scientists for 3 years in the banking industry working on financial, risks and marketing use cases (financial product recommender, anti-money laundering detector, fraud detector and many more ...) using Python language mainly (SQL as well and a bit of HTML/.js when needed), [machine](https://lightgbm.readthedocs.io/en/latest/) and [deep learning](https://keras.io/) frameworks leveraging for some with data sciences platform tools.
+🔍 I've been a data scientists for 4 years in the banking industry working on financial, risks and marketing use cases (financial product recommender, anti-money laundering detector, fraud detector and many more ...) using Python language mainly (SQL as well and a bit of HTML/.js when needed), [machine](https://lightgbm.readthedocs.io/en/latest/) and [deep learning](https://keras.io/) frameworks leveraging for some with data sciences platform tools.
 
 🤩 I also worked quite a lot on the assessment of the data science platform tools and am really interested in the market of data vizualization, data science, data ops as well as the products.
 
