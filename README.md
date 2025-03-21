@@ -6,4 +6,4 @@
 
 🫡 create, iterate, industrialize
 
-[linkedin]https://www.linkedin.com/in/arnaud-tauveron/
+[👍] https://www.linkedin.com/in/arnaud-tauveron/
