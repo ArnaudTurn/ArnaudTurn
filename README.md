@@ -1,39 +1,37 @@
-# 👋 Hi there — welcome to my space
+<h1 align="center">Arnaud Tauveron</h1>
 
-Building at the intersection of **AI, agents, and algorithmic trading**.  
-Exploring intelligence across **tabular data, text, and images**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=620&lines=Create.+Iterate.+Industrialize.;AI+agents+%C2%B7+algorithmic+trading;Tabular+data%2C+text+and+images" alt="Create. Iterate. Industrialize." />
+</p>
 
-🧠 **Create. Iterate. Industrialize.**
----
+<p align="center">
+  <a href="https://emmascan.io"><img src="https://img.shields.io/badge/emmascan.io-live-00C853?style=flat-square" alt="emmascan.io" /></a>
+  <a href="https://www.linkedin.com/in/arnaud-tauveron/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ArnaudTurn-pro"><img src="https://img.shields.io/badge/Pro%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Professional GitHub" /></a>
+</p>
 
-### 🧩 What I Do
+I build at the intersection of **AI, agents, and algorithmic trading** — from the first notebook to something that runs in production.
 
-![Backend](https://img.shields.io/badge/Back%20End-181717?style=for-the-badge&logo=fastapi&logoColor=white)
-![Frontend](https://img.shields.io/badge/Front%20End-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20Frameworks-FF6F61?style=for-the-badge&logo=langchain&logoColor=white)
+### 🚀 What I'm building
 
----
+| | Project | What it is |
+|---|---|---|
+| 📈 | **[emmascan.io](https://emmascan.io)** | Signal scanning, backtests, and confluence-pattern detection across markets and timeframes |
+| 🧬 | **[medgroundAI](https://github.com/ArnaudTurn-pro/medgroundAI)** | Open-source, MCP-native RAG for biomedical research — every answer cites a real, verifiable source |
+| 🧠 | **Multi-agent orchestration** | Routing work across specialized agents instead of one giant prompt |
 
-### ⚙️ Tech Stack
+### ⚙️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FB9B2B?style=for-the-badge&logo=argo&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-F2A900?style=for-the-badge&logo=clickhouse&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nodejs,fastapi,postgres,docker,kubernetes,terraform&theme=dark" alt="Python, TypeScript, React, Node.js, FastAPI, PostgreSQL, Docker, Kubernetes, Terraform" />
+</p>
 
+Also: **ClickHouse** · **ArgoCD** · **agentic frameworks**
 
----
+### 🗂️ Earlier work
 
-### 🔗 Connect
-- 🌐 [Professional GitHub](https://github.com/ArnaudTurn-pro)
-- 💼 [LinkedIn – Arnaud Tauveron](https://www.linkedin.com/in/arnaud-tauveron/)
+- **[financialmarket_project](https://github.com/ArnaudTurn/financialmarket_project)** — log-return prediction for multiple financial assets, built in five days
+- **[competition_project](https://github.com/ArnaudTurn/competition_project)** — Python package for a data science challenge: load, preprocess, train, predict
+- **[SKELETON](https://github.com/ArnaudTurn/SKELETON)** — reusable data transformation framework (under development)
 
----
+<p align="center"><sub>🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish</sub></p>
